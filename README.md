@@ -10,13 +10,17 @@ I was born in Ningbo. I love ocean and seafood.
 
 - 4 years: **Beijing**
 
-Just finished my undergraduate in Data Journalism at Communication University of China in Beijing.
+Finished my undergraduate in Data Journalism at Communication University of China in Beijing.
 
-- < 1 year: **New York**
+- 1 year: **New York**
 
-And currently studying Data Journalism at Columbia University in New York.
+Just graduated from M.S. Data Journalism from Columbia Journalism School.
 
 The abbreviations of both universities are CU and located near Subway Line 1!
+
+- < 1 year: **San Francisco**
+
+Current data fellow @MissionLocal
 
 ### My exploration in Github
 
@@ -26,7 +30,8 @@ Right now most of those projects are my homework/assignment. But I garantee in t
 
 ### More about myself
 
-I hope I can do *visualization* or *coding* in a newsroom after graduation🚀
+I hope I can do *visualization* or *coding* in a newsroom🚀
+Looking for job now...
 
 Ideal beats will be cross-border issues like:
 - Climate change
