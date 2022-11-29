@@ -1,6 +1,6 @@
 ## Hey friend I am Chuqin Jiang 蒋楚沁!
 
-My name is pronounced as ChuChin not ChuKing. But you can call me **💕Angeline💕** as well.
+My name is pronounced as ChuTsin not ChuQueen. But you can call me **💕Angeline💕** as well.
 
 ### Three cities in my life
 
