@@ -1,4 +1,4 @@
-## Hi 🤗 I am Chuqin Jiang 蒋楚沁!
+## Hey friend I am Chuqin Jiang 蒋楚沁!
 
 My name is pronounced as ChuChin not ChuKing. But you can call me **💕Angeline💕** as well.
 
