@@ -18,9 +18,13 @@ Just graduated from M.S. Data Journalism from Columbia Journalism School.
 
 The abbreviations of both universities are CU and located near Subway Line 1!
 
-- < 1 year: **San Francisco**
+- 1 year: **San Francisco**
 
-Current data fellow @MissionLocal
+Data fellow @MissionLocal
+
+- 1 year: **Hong Kong**
+
+Graduate Trainee @South China Morning Post
 
 ### My exploration in Github
 
@@ -31,7 +35,6 @@ Right now most of those projects are my homework/assignment. But I garantee in t
 ### More about myself
 
 I hope I can do *visualization* or *coding* in a newsroom🚀
-Looking for job now...
 
 Ideal beats will be cross-border issues like:
 - Climate change
